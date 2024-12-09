@@ -1,0 +1,15 @@
+{
+    "ProjectName": "minimal-django-app",
+    "ProgrammingLanguages": [
+        "Python"
+    ],
+    "ScanModules": [
+        "StaticCodeAnalysis"
+    ],
+    "SkipGitIgnoreFiles": true,
+    "PythonSettings": {
+        "UsePublicAnalysisMethod": false,
+        "DownloadDependencies": false,
+        "CustomParameters": "--interpret-dependencies true --log-level debug --dependencies-dir ./.ai_1/Temp/8a7d0c8e30ec41c387713367bd623ca3/Python/venv"
+    }
+}
